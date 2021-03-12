@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-backend-spring-master/e-commerce-backend-spring-master/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/e-commerce-backend-spring-master/e-commerce-backend-spring-master/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-frontend-angular-master/e-commerce-frontend-angular-master.iml" filepath="$PROJECT_DIR$/e-commerce-frontend-angular-master/e-commerce-frontend-angular-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-backend-spring-master/e-commerce-backend-spring-master/src/main/main.iml" filepath="$PROJECT_DIR$/e-commerce-backend-spring-master/e-commerce-backend-spring-master/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-backend-spring-master/e-commerce-backend-spring-master/src/test/test.iml" filepath="$PROJECT_DIR$/e-commerce-backend-spring-master/e-commerce-backend-spring-master/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
